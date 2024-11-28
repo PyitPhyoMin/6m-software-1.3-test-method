@@ -1,0 +1,98 @@
+> assignment@1.0.0 test
+> jest
+
+  console.log
+    Printing student name 1: Johnson
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log
+    Printing student name 2: Christina
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 3: Michael                                                                      
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 4: Lina                                                                         
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 5: Larry                                                                        
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 6: Michelle                                                                     
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 7: Bob                                                                          
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log                                                                                             
+    Printing student name 8: Wilson                                                                       
+
+      at log (q2-arrays-loop.js:23:13)
+
+  console.log
+    Programming for Dummies
+
+      at log (q3-objects.js:43:11)
+
+  console.log                                                                                             
+    Printing student name 1: Johnson                                                                      
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 2: Christina                                                                    
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 3: Michael
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 4: Lina                                                                         
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 5: Larry                                                                        
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 6: Michelle                                                                     
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 7: Bob                                                                          
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+  console.log                                                                                             
+    Printing student name 8: Wilson                                                                       
+
+      at console.<anonymous> (node_modules/jest-mock/build/index.js:836:25)
+
+ PASS  ./demo.test.js
+  Demo
+    √ should test the printStudentNames function of q2 (18 ms)                                            
+    √ should test the convert function of q3 (1 ms)                                                       
+                                                                                                          
+Test Suites: 1 passed, 1 total                                                                            
+Tests:       2 passed, 2 total                                                                            
+Snapshots:   0 total
+Time:        0.305 s, estimated 3 s
+Ran all test suites.
